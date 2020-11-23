@@ -6,7 +6,6 @@
   </head>
   <body>
     {{include "//file:@f4/templates/layouts/demo1/includes/partial.jet"}}
-    <hr />
     {{block documentBody()}}{{end}}
   </body>
 </html>
